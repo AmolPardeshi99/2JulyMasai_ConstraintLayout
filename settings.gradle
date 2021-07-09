@@ -1,0 +1,2 @@
+rootProject.name = "2JulyMasai_ConstraintLayout"
+include ':app'
